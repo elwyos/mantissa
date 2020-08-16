@@ -1,0 +1,11 @@
+appname> Goleme
+mode: gametest
+splashpage> Default.png
+appstoreid> 654827542
+rsscaling: 1.0
+roensachs: disable
+//resolution: 320 900
+//landscape
+//resolution: 1800 1000
+resolution: 1280 720
+//resolution: 704 480
