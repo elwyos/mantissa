@@ -2,6 +2,8 @@
     
    [Watch the video](https://youtu.be/woxRbwKTink)
     
+    [linux binary](https://mega.nz/file/7oUi3SKD#j-l976ZbFwPwmQEmEo2I1Wp-eObWSRcRrfwRZ4gsf1Y)
+    
    It is an on-premise app that coordinates volunteers
    via SMS. But it does way more than just broadcasting!
    
