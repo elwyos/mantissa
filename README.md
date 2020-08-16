@@ -33,7 +33,6 @@
    
    What we have built is an on-premise sms-based workforce management tool.
    Currently only for linux, but porting to windows is a less than one day affair.
-   Thanks watching Project Mantissa.
    
 #note
    
