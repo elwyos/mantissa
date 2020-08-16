@@ -32,3 +32,14 @@
    What we have built is an on-premise sms-based workforce management tool.
    Currently only for linux, but porting to windows is a less than one day affair.
    Thanks watching Project Mantissa.
+   
+#note
+   
+   Right now the tool only works on linux. We'll get to the windows version sometimes.
+   We'll have a linux binary here sometimes soon.
+   
+   The compilation requires a complicated preprocessor called "Cloth" that is not available publicly.
+   As you can see there's the "ccp" and "cl.cpp" files. "Ccp" files translate into the "cl.cpp" files.
+   
+   
+   
